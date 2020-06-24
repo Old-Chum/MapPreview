@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mappreview",
+  "name": "Map Preview",
+  "description": "A mod that allows you to view maps in your inventory.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "Anus.com",
+  "updateUrl": "",
+  "authorList": ["Old Chum"],
+  "credits": "Soupgang",
+  "logoFile": "Hoyabembe.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

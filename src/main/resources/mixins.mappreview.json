@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.oldchum.mappreview.mixins",
+  "refmap": "mixins.mappreview.refmap.json",
+  "mixins": [
+    "MixinRenderItem"
+  ]
+}
