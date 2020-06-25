@@ -1,6 +1,6 @@
 # Map Preview
 
-![Map Preview](src/main/resources/Hoyabembe.png)
+![](Epic%20maps.png)
 
 A Minecraft mod that allows you to view maps without holding them.<br>
-<b>Maps must be in your inventory before you can see them.<b/>
+<b>You must have seen a map before they will show up.<b/>
